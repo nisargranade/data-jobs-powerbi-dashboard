@@ -2,20 +2,6 @@
 
 An interactive Power BI dashboard analyzing **478K+ real-world data job postings**, uncovering salary trends, hiring patterns, job types, and role-specific insights across the data industry.
 
----
-
-## 🖼️ Dashboard Preview
-
-### Page 1 — Main Overview
-![Data Jobs Dashboard](screenshots/page1.png)
-
-### Page 2 — Job Title Drill Through
-![Job Title Drill Through](screenshots/page2.png)
-
-> 📌 *Save your screenshots in a `screenshots/` folder inside the repo as `page1.png` and `page2.png`.*
-
----
-
 ## 📌 Overview
 
 This dashboard is built on a dataset of **~479K data job postings** and gives a complete picture of the data job market — from salary benchmarks to hiring platform breakdowns. It features **2 interactive report pages** with drill-through functionality.
